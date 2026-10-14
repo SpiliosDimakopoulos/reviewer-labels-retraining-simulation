@@ -33,4 +33,7 @@ Requires Python 3.12 and the packages in `requirements.txt` (`pip install -r req
 
 `simulation/results/results.json` also holds blocks from earlier analysis passes (for example `E2_step_prediction` and `R2form_all`). They are superseded by `First_step_formula_variants`.
 
+## Author and citation
+Spilios Dimakopoulos (ORCID 0009-0001-4227-3627). This repository accompanies the manuscript "When Human Review Becomes the Vector: Reviewer Labels, Retraining and Group Disparity in Public-Sector AI" (under review). Until the article is published, please cite the repository: Dimakopoulos, S. (2026). Simulation code and results: reviewer labels, retraining and group disparity. https://github.com/SpiliosDimakopoulos/reviewer-labels-retraining-simulation
+
 Licence: MIT (see `LICENSE`).
